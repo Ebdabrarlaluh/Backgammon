@@ -2,7 +2,7 @@
 
 Console C++ Backgammon Game
 
-The goal was to create a colorful and playable backgammon game in C++. The game has a visual design, sound effects and music. Save&Load functions are provided with logs and can be viewed.
+The goal was to create a colorful and playable backgammon game in C++. The game has a visual design, sound effects and music. Save&Load functions are provided with logs and can be viewed. Follows all rules of Backgammon.
 
 
 
